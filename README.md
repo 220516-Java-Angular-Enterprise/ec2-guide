@@ -2,12 +2,12 @@
 
 ## Index
 1. [Pre-req](#pre-req)
-2. Create EC2 Instance
-3. SSH into EC2 Instance
-4. Credits
+2. [Create EC2 Instance](#Create-EC2-Instance)
+3. [SSH into EC2 Instance](#SSH-into-EC2-Instance)
+4. [Credits](#Credits)
 ---
 
-## Pre-req
+## [Pre-req](#Index)
 Some info that is nice to know.
 
 ### What is EC2
@@ -28,7 +28,7 @@ securely over an unsecured network. Its most notable applications are remote log
 EC2 is a virtual computer where you can delpoy your web apps, and ssh is a protocol that
 allows you to access you EC2 instance (computer) with the help of a key (.pem file).
 
-## Create EC2 Instance
+## [Create EC2 Instance](#Index)
 
 ### Step 1 Launch instance
 
@@ -80,7 +80,7 @@ click `Download Key Pair`
 
 **Congrats you have finished creating an EC2 Instance**
 
-## SSH into EC2 Instance
+## [SSH into EC2 Instance](#Index)
 
 ### Pre-req
 
@@ -141,6 +141,6 @@ for example
 chmod 400 ec2-220516.pem
 ```
 
-## Credits
+## [Credits](#Index)
 - Eric
 - Will
