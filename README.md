@@ -1,7 +1,7 @@
 # ec2-guide
 
 ## Index
-1. [Pre-req](##pre-req)
+1. [Pre-req](#pre-req)
 2. Create EC2 Instance
 3. SSH into EC2 Instance
 4. Credits
