@@ -132,13 +132,13 @@ if this prompt comes up type yes.
 You have to change the access permission of the key:
 
 ```bash
-chmod 400 {yourKeyName}.pem
+chmod 600 {yourKeyName}.pem
 ```
 
 for example
 
 ```bash
-chmod 400 ec2-220516.pem
+chmod 600 ec2-220516.pem
 ```
 
 ## [Credits](#Index)
